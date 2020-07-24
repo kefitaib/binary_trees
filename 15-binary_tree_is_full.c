@@ -1,5 +1,11 @@
 #include "binary_trees.h"
 
+/**
+ * check - checks if a binary tree is full
+ * @tree : binary tree
+ * Return: true if it's full, false othewise
+ */
+
 
 bool check(const binary_tree_t *tree)
 {
